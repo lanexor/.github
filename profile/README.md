@@ -11,7 +11,7 @@
 
   <br />
 
-  **Lavonix is a modern messenger built for resilience.**  
+  **Lanexor is a modern messenger built for resilience.**  
   Designed for communities, teams, and gamers who need reliable communication under heavy network restrictions, throttling, or censorship.
 
   [Download Now] • [Web Version] • [Join Community]
@@ -27,7 +27,7 @@ Traditional messengers (Discord, WhatsApp) are great, but they fail when:
 *   Centralized servers go down during peak hours.
 
 ### 🛡️ The Lavonix Solution
-We built a communication protocol that adapts. Whether you are gaming on a restricted campus network, working from a region with internet censorship, or just suffering from packet loss — **Lavonix gets the message through.**
+We built a communication protocol that adapts. Whether you are gaming on a restricted campus network, working from a region with internet censorship, or just suffering from packet loss - **Lanexor gets the message through.**
 
 ---
 
